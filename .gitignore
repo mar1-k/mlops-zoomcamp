@@ -1,0 +1,12 @@
+hw2/yellow_tripdata_2023-01.parquet
+hw2/yellow_tripdata_2023-02.parquet
+hw2/yellow_tripdata_2023-03.parquet
+.DS_Store
+mlruns/0/22715f6588bc48628d8ce6a4ac05d70e/meta.yaml
+/mlruns
+hw2/output/val.pkl
+hw2/output/test.pkl
+hw2/output/dv.pkl
+hw2/output/train.pkl
+hw2/mlflow.db
+mlflow.db
